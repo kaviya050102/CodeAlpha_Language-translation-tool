@@ -48,7 +48,7 @@ Language-Translation-Tool
 
 ## Demo Video
 
-[Click Here to Watch Demo](https://drive.google.com/file/d/1BT4oDxtfHC3DdiimsHQSuxqT3B0bYi3R/view?usp=drivesdk)
+[https://drive.google.com/file/d/1BT4oDxtfHC3DdiimsHQSuxqT3B0bYi3R/view?usp=drivesdk](https://drive.google.com/file/d/1BT4oDxtfHC3DdiimsHQSuxqT3B0bYi3R/view?usp=drivesdk)
 
 ## How to Run
 
